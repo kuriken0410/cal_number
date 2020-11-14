@@ -15,4 +15,4 @@ class CalculateController extends Controller
   }
 }
 
-//calculateディレクトリのnum.blade.phpを表示する
+//14行目はcalculateディレクトリのnum.blade.phpを表示する
