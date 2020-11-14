@@ -8,6 +8,5 @@ class CalculateController extends Controller
 {
   public function getCalc(Request $request){
     return view('calculate.num');
-　　//calculateディレクトリのnum.blade.phpを表示
   }
 }
