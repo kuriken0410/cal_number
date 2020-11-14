@@ -11,7 +11,7 @@ class CalculateController extends Controller
     $data['exchange'] = $request->input('usdoller');
     $data['jpyen'] = ($data['exchange'] * 110);
 
-    return view('calculate.num');
+    return view('calculate.num', $data);
   }
 }
 
