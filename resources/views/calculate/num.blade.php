@@ -1,9 +1,9 @@
 <html>
   <head>
-    <title>計算アプリ</title>
+    <title>米ドル変換アプリ</title>
   </head>
   <body>
-    <h1>計算アプリです</h1>
+    <h1>米ドル変換アプリです</h1>
     <h2>米ドルを入力すれば日本円に換算します</h2>
     <div>
       <form>
