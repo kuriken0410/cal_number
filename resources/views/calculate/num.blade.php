@@ -3,7 +3,7 @@
     <title>cal_number</title>
   </head>
   <body>
-    <h1>米ドル変換アプリです</h1>
+    <h1>cal_number</h1>
     <h2>米ドルを入力すれば日本円に換算します</h2>
     <div>
       <form>
