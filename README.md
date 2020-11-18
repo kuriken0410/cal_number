@@ -1,4 +1,4 @@
-<h1 align="center">計算アプリ（cal_number）</h1>
+<h1 align="center">計算アプリケーション（cal_number）</h1>
 
 ## :globe_with_meridians: cal_numberとは
 - 入力した米ドルを日本円に換算する計算アプリケーションです。
