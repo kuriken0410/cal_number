@@ -4,6 +4,9 @@
 - 入力した米ドルを日本円に換算する計算アプリケーションです。
 - 米ドルを入力することで自動的に日本円換算額を表示します。
 
+![キャプチャ動画](https://i.gyazo.com/75e983a67996274bf2dfed97adf73ece.gif)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
