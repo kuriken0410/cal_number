@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>米ドル変換アプリ</title>
+    <title>cal_number</title>
   </head>
   <body>
     <h1>米ドル変換アプリです</h1>
