@@ -13,8 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
-Route::get('/calculate', 'App\Http\Controllers\CalculateController@getcalc');
+
+Route::get('/', 'App\Http\Controllers\CalculateController@getcalc');
