@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('num');
+    return view('welcome');
 });
 
 Route::get('/calculate', 'App\Http\Controllers\CalculateController@getcalc');
