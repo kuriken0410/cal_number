@@ -14,4 +14,14 @@
 ### ■ 言語
 * PHP
 ### ■ フレームワーク
-* Laravel
+* Laravel 8.14.0
+
+### ■ データベース
+* PostgreSQL 13.0
+
+### ■ デプロイ
+* heroku
+* https://fast-springs-78688.herokuapp.com/
+
+### ■ コードレビューツール
+* Sider
