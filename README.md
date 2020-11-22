@@ -17,7 +17,7 @@
 * Laravel 8.14.0
 
 ### ■ データベース
-* PostgreSQL 
+* PostgreSQL 13.0
 
 ### ■ デプロイ
 * heroku
