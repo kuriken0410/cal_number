@@ -20,7 +20,7 @@
 * PostgreSQL 13.0
 
 ### ■ デプロイ
-* heroku
+* heroku 7.47.0
 * https://fast-springs-78688.herokuapp.com/
 
 ### ■ コードレビューツール
