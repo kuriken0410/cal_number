@@ -21,7 +21,7 @@
 
 ### ■ デプロイ
 * heroku 7.47.0
-* https://fast-springs-78688.herokuapp.com/
+* https://fast-springs-78688.herokuapp.com
 
 ### ■ コードレビューツール
 * Sider
